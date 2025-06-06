@@ -7,7 +7,7 @@ Student | Web Devloper
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Here](http://bala.com)
 * ✉️  You can contact me at [test2@gmail.com](mailto:test2@gmail.com)
-* 🧠  I'm learning B.E
+* 🧠  I'm currently pursuing B.E.
 
 ### Skills
 
